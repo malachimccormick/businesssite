@@ -1,0 +1,94 @@
+.navbar-toggler  {
+  background-color: rgb(135, 220, 248);
+}
+
+.jumbotron-fluid {
+  
+  margin-bottom: 12px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgb(252, 208, 115);
+  border: 4px solid black;
+  
+}
+.jumbotron-fluid img {
+  background-size: cover;
+  height: 400px;
+}
+
+.freshfoodpop {
+  width: 100%;
+  background-color: rgb(240, 240, 240);
+}
+.col-sm-12 h2{
+  text-align: center;
+}
+
+.jumbotroncarousel {
+  display: flex;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background-color: beige;
+  justify-content: center;
+}
+.item, img{
+  height: 250px;
+  width:  100%;
+  
+}
+.salad{
+  width: 80%;
+}
+
+.row1{
+display: flex;
+align-content: center;
+justify-content: center;
+}
+.row2 {
+  display: flex;
+align-content: center;
+justify-content: center;
+  margin-top: 30px;
+}
+.rowiceeaters{
+  margin-top: 22px;
+  margin-bottom:30px;
+}
+.footer{
+  margin-top: 20px;
+}
+.fa {
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  
+}
+
+.fa:hover {
+  opacity: 0.9;
+  color: black;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  color: white;
+  background: rgb(243, 94, 119);
+}
+.fa-linkedin {
+  background-color: blue;
+  color: white;
+}
